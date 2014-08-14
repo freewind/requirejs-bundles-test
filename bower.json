@@ -1,0 +1,19 @@
+{
+  "name": "requirejs-bundles-test",
+  "version": "0.0.0",
+  "authors": [
+    "Freewind <pli@thoughtworks.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.14",
+    "jquery": "~2.1.1"
+  }
+}
